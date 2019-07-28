@@ -67,6 +67,22 @@ Run `scrapper.js`
   node scrapper.js
   ```
 
+Returns 10 articles
+  ```js
+  [
+    {
+      id: 1,
+      link: 'http...',
+      title: 'Do airplane contrails add to climate change? Yes, and the problem ...',
+      img: 'http...',
+      snippet: 'And so it will remain the largest impact on the climate, " outpacing ...',
+      source: 'NBCNews.com',
+      time: '10 hours ago',
+    },
+    ...
+  ]
+  ```
+
 
 
 <!-- CONTRIBUTING -->
